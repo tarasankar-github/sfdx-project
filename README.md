@@ -1,2 +1,0 @@
-# sfdx-project
-sfdx-project
